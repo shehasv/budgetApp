@@ -2,7 +2,6 @@
 
 [![Application Design Illustration](./src/assets/thumbnail.png)](https://youtu.be/sU4z4Ti-8OQ)
 
-##### Watch the full tutorial on [Youtube](https://youtu.be/sU4z4Ti-8OQ)! 
 
 ## Screenshots
 
